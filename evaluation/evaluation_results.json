@@ -1,0 +1,20 @@
+{
+  "total_tests": 2,
+  "passed": 2,
+  "failed": 0,
+  "pass_rate": 100.0,
+  "results": [
+    {
+      "test": "Sales analysis and report",
+      "passed": true,
+      "status": "completed",
+      "response_time": 9.5
+    },
+    {
+      "test": "Sales performance analysis",
+      "passed": true,
+      "status": "completed",
+      "response_time": 2.52
+    }
+  ]
+}
